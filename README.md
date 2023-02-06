@@ -1,5 +1,7 @@
 
-## DeepNoise: Disentanglement of Experimental Noise from Real Biological Signals for Fluorescent Microscopy Images via Deep Learning( Under review)
+## DeepNoise: Signal and Noise Disentanglement Based on Classifying Fluorescent Microscopy Images via Deep Learning
+[Journal Link](https://www.sciencedirect.com/science/article/pii/S1672022922001735?via%3Dihub)
+
 ### kaggle NIPS2019 Recursion Cellular Image Classification Challenge 2nd place [code](https://www.kaggle.com/c/recursion-cellular-image-classification)
 
 #### Dependencies
